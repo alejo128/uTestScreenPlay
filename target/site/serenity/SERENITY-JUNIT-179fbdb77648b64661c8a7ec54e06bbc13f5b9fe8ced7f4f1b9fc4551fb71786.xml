@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="uTest sign up" skipped="0" tests="1" time="0.31" timestamp="2022-01-13 08:52:50"><testcase name="Sign up in the uTest webpage"><error message="No such field co.com.choucair.certification.proyectobase.model.uTestData.strBirthMonth" type="cucumber.runtime.CucumberException">No such field co.com.choucair.certification.proyectobase.model.uTestData.strBirthMonth</error><system-err>No such field co.com.choucair.certification.proyectobase.model.uTestData.strBirthMonth&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
